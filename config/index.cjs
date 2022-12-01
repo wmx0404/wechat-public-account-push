@@ -11,7 +11,7 @@ const USER_CONFIG = {
   APP_ID: 'wx8efc136863d215f2',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '874c122c2033c731a016ee42cacd9ed6',
+  APP_SECRET: '601bd57e6b96e4d34a985b0fe307f85d',
 
   PROVINCE: '广东',
   CITY: '深圳',
@@ -21,9 +21,9 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '鸣鸣宝贝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oQNy46CqQV3LXa0lHh3S_diJeDFE',
+      id: 'oQNy46Mlw635vnDgu_ch2VEWCXsc',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '22-qCaVjCNHbEh88lE9bI-fq80TJJW-HAF9lUF8xNWQ',
+      useTemplateId: 'N3v8d11aw7smJIL_qNlE81Dw3M0rdoEz5mT2CpMi3x0',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '08-08',
       festivals: [
